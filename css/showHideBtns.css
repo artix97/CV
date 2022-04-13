@@ -1,0 +1,10 @@
+.shbtns{
+    background-color: white; /* Blue background */
+    border: none; /* Remove borders */
+    color: #66cc99; /* White text */
+    font-size: 16px; /* Set a font size */
+    cursor: pointer; /* Mouse pointer on hover */
+}
+.hidden{
+    display: none;
+}
